@@ -39,6 +39,8 @@
                         Console.Write("Movies to add: ");
                         Console.Read();
                         break;
+                       
+
                 }
 
             }
